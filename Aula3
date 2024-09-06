@@ -1,0 +1,28 @@
+public class Aula3 {
+// if else
+// swicht 
+// ? Comando ternario
+    public static void main(String[] args) {
+        int n = 1;
+        int n1 = 2;
+        String res;
+          // comando ternario
+     res=(n > n1 ? "Aprovado":"Reprovado");
+        System.out.println("Res : "+res);
+  
+
+          //if else
+     if(n > n1){
+        System.out.printf("Aprovado");
+     }else{
+       System.out.printf("Reprovado");
+     }
+
+        // comando swicht case
+        switch (n){
+            case 1 : System.out.println("1 lugar"); break;
+            default:System.out.println("Colocaçao errda"); break;
+        }
+
+    }
+}

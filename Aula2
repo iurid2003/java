@@ -1,0 +1,22 @@
+public class Aula2 {
+    // Variaveis
+    public static void main(String[] args){
+  
+        int num ;
+        num  = 21 ;
+        int n1 = 10 ;
+        int n2 = 20 ;
+        int n3 = 30 ;
+        int res = n1 + n2  + n3 ;
+        String nome = "Iuri Dantas";
+
+
+        System.out.println("Curso de Java");
+        System.out.printf("%s \nano : %d%n","CFB Cursos",2021); // Usar Esse
+        System.out.printf("Valor da variavel num : %d%n",num);
+        System.out.printf("Nome : %s%n",nome);
+        System.out.printf("Soma : %d",res);
+
+    }
+
+}

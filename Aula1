@@ -1,9 +1,10 @@
-import  java.util.Scanner;
+## O que um Objeto ?
 
-public class Aula1 {
-    public static void main(String[] args){
+Objetos: São como peças de Lego que você pode usar para construir coisas
+maiores
 
-     // imprimir na tela
-        System.out.print("Hello Word !");
-    }
-}
+Classes : o mesmo objeto em si so com caracteristicas diferentes
+
+Atributos : Onde eu diferencio as caracteristricas das classes
+
+Metodos : Funções Das Classes que eu uso em todas as classes
